@@ -47,4 +47,4 @@ http://localhost:3000
 - App.css: Arquivo de estilos.
 
 ## Link para o acesso ao site
-
+https://pokedex-react-ten-gold.vercel.app/
